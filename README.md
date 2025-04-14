@@ -28,7 +28,6 @@
 
 
 <p> <b> Languages Used: HTML, CSS, & JavaScript  </b> </p>
-<h2>Preview: </h2>
-<p>This is preview of the project. You can visit live preview on <a href="file:///C:/Users/SaiLasya/OneDrive/Desktop/Tempest/index.html" target="_blank"> Here. </a></p>
+
 
 
